@@ -13,7 +13,7 @@ source:
     - remove-runtime-build-tools.patch
 
 build:
-  number: 0
+  number: 1
   skip:
     - win
   script:
